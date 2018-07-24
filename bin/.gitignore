@@ -2,14 +2,11 @@
 /Kettle$Water.class
 /Kettle.class
 /Microwave.class
+/Minion.class
 /MinionTest.class
 /Popcorn.class
 /Recipes.html
 /TeaBag.class
 /TeaMaker.class
 /extra/
-/Minion.class
-/TeaMaker$Cup.class
-/TeaMaker$Kettle$Water.class
-/TeaMaker$Kettle.class
-/TeaMaker$TeaBag.class
+/PopcornMaker.class
